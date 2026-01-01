@@ -1,0 +1,10 @@
+.venv/ 
+__pycache__/ 
+Data/
+Model/*.pkl
+*.csv
+*.pkl
+*.zip
+*.pt
+*.h5
+.ipynb_checkpoints/
